@@ -1,0 +1,48 @@
+{
+    "positive_words": [
+        "Amazing",
+        "Awesome",
+        "Excellent",
+        "Fantastic",
+        "Great",
+        "Love",
+        "Loved",
+        "Perfect",
+        "Enjoyed",
+        "Delightful",
+        "Inspiring",
+        "Insightful",
+        "Thrilling",
+        "Engaging",
+        "Captivating",
+        "Remarkable",
+        "Well-written",
+        "Beautifully crafted",
+        "A masterpiece",
+        "Highly recommend",
+        "Must-read",
+        "Worth it","good"
+    ],
+    "negative_words": [
+        "Disappointed",
+        "Dull",
+        "Boring",
+        "Weak",
+        "Frustrating",
+        "Terrible",
+        "Hate",
+        "Did not like",
+        "Uninspiring",
+        "Predictable",
+        "Confusing",
+        "Hard to follow",
+        "Waste of time",
+        "Would not recommend",
+        "Not worth it",
+        "Underwhelming",
+        "not good",
+        "bad",
+        "not worthy"
+
+    ]
+}
