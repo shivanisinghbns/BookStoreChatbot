@@ -2,7 +2,7 @@ from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
 from pydantic import BaseModel
-from Bookstorechatbotwithgpt.main import main_handle  
+from main import main_handle  
 
 app = FastAPI()  
 templates = Jinja2Templates(directory="templates")
