@@ -12,4 +12,4 @@
 ## Run the FastAPI application:
 ### Go to the desired folder.Then run "uvicorn main:app --reload"
 
-![image](https://github.com/user-attachments/assets/f63877ed-ef66-4a1a-ac1e-ae6ef7855d85)
+
